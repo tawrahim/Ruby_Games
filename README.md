@@ -5,7 +5,7 @@ It is just a basic puzzle game that tests 'Arrays, loops, methods and Objects
 ## Installation
 ```bash
 $ cd ~
-$ git clone
+$ git clone git@github.com:tawrahim/memory.git
 $ cd concentration
 $ ruby concentration.rb
 ```
