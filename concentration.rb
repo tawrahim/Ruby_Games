@@ -32,4 +32,8 @@ def populate
 	return board
 end
 
-print populate
+# Select card at position (x,y). Return a card object with
+# value for its x & y location cordinates. (i.e., [row][column])
+def select_card
+	
+end
