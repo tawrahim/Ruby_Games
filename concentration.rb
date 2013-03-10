@@ -18,13 +18,18 @@ def populate
 	# loop through each of the rows in the array
 	for x in (0..board.size-1);
 		for j in (0..board[x].size-1);
-			board[x][j] = rand(10)
-			#check to see if the number has been used before
-
+			random_number = rand(10)
+			
+			# check to see if the number has already been used
+			if board.flatten.include?(random_number)
+				board[x][j] = random_number + 1
+			else
+				board[x][j] = random_number
+			end
 		end
 	end
 	
-	print board
+	return board
 end
 
-populate
+print populate
