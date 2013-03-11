@@ -39,11 +39,37 @@ class BoardGame
 		card["x"] = x
 		card["y"] = y
 		selection = self.populate
-		return card, selection[x][y]
+		return card
 	end
 
+
+	# Given two card objects (like those created with select_card()
+	# method), add a 5X4 game board matrix of 0-9 numbers like the  one
+	# from the populate method. check if the values of the two cards are
+	# the same. Use [x][y] coordinates from each card object (selected
+	# card1 and selectedcard2) to refrence the matrix values at the 
+	# coordinates for each. Compare them for a possible match. If they
+	# match return true. Otherwise return false
+	# Also make sure that selectedcard1 and selectedCard2 are not the same
+	def isMatch(selectedCard1, selectedCard2, matrix)
+		pos1 = selectedCard1['x']
+		pos2 = selectedCard1['y']
+		pos3 = selectedCard2['x']		
+		pos4 = selectedCard2['y']		
+		print matrix
+		puts "Position1 has the value #{matrix[pos1][pos2]} and Position2 has the value #{matrix[pos3][pos4]}"
+		if (matrix[pos1][pos2] == matrix[pos3][pos4])
+			puts "Match Found"
+			return true
+		else
+			puts "No Match"
+			return false
+		end
+	end
 end
 
 game = BoardGame.new
-print game.populate
-puts game.select_card(2,3)
+card1 = game.select_card(0,0)
+card2 = game.select_card(2,3)
+matrix = game.populate
+game.isMatch(card1,card2,matrix)
