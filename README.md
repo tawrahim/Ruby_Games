@@ -6,7 +6,7 @@ you love so that is why I am here.
 ## Installation
 ```bash
 $ cd ~
-$ git clone git@github.com:tawrahim/memory.git
+$ git clone git@github.com:tawrahim/Ruby_Games.git
 ```
 
 ## Games
