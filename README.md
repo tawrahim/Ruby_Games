@@ -10,7 +10,7 @@ $ git clone git@github.com:tawrahim/Ruby_Games.git
 ```
 
 ## Games
-Concentration => It is a simple board game that checks to see if the two values selected match. No fancy gui or anything. straight up command line!
+* Concentration => It is a simple board game that checks to see if the two values selected match. No fancy gui or anything. straight up command line!
 
 ## Philosophy
 * code with ruby
