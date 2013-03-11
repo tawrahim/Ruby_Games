@@ -1,14 +1,16 @@
 # Concentration Project
-This is my solution to a project that I found on learnstreet 
-It is just a basic puzzle game that tests 'Arrays, loops, methods and Objects
+On my free time, I love to write code so these are some baby projects that
+I wrote in ruby. I figured the best way to learn Ruby was to create things
+you love so that is why I am here.
 
 ## Installation
 ```bash
 $ cd ~
 $ git clone git@github.com:tawrahim/memory.git
-$ cd concentration
-$ ruby concentration.rb
 ```
+
+## Games
+Concentration => It is a simple board game that checks to see if the two values selected match. No fancy gui or anything. straight up command line!
 
 ## Philosophy
 * code with ruby
