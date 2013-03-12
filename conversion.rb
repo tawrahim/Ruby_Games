@@ -11,7 +11,7 @@ class Conversion
 	# value that was supplied as "from" in the method call.
 	def temprature(n, from)
 		result = []
-		from.downcase.strip!
+		from.downcase!
 		if from == "fahrenheit"
 			c = ((5.0/9)*(n-32))
 			k = ((5/9.0)*(n-32)+273.15)
@@ -28,8 +28,7 @@ class Conversion
 			result[0] = c
 			result[1] = f
 		else
-			puts from
-			puts "Not found"
+			puts from, "Not found"
 		end
 		return result
 		
@@ -37,4 +36,4 @@ class Conversion
 end
 
 convert = Conversion.new
-puts convert.temprature(78,"celcius")
+puts convert.temprature(78,"CElciUsy")
