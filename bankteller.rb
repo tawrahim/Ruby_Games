@@ -38,6 +38,5 @@ class BankTeller
 	end
 end
 
+# Place all method calls here
 accnt = BankTeller.new
-puts accnt.add_account("Tawheed", "kayode90", "discover")
-puts accnt.get_balance("discover")
