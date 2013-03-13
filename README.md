@@ -15,7 +15,7 @@ $ git clone git@github.com:tawrahim/Ruby_Games.git
 ## Philosophy
 * code with ruby
 * test with rspec
-* document with RDoc
+* document with Yardoc
 * If you repeat yourself more than three times, there is a better way to do it. refactor!
 * push code to github every night
 * Repeat
