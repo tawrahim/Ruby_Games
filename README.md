@@ -11,6 +11,8 @@ $ git clone git@github.com:tawrahim/Ruby_Games.git
 
 ## Games
 * **Concentration** => It is a simple board game that checks to see if the two values selected match. No fancy gui or anything. straight up command line!
+* **Conversion** => Converts temprature from one given unit to the other
+* **BankTeller** => Some object oriented programming concepts explored, Withdraw money and add money to a bank
 
 ## Philosophy
 * code with ruby
