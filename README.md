@@ -1,9 +1,12 @@
-# Concentration Project
-On my free time, I love to write code so these are some baby projects that
-I wrote in ruby. I figured the best way to learn Ruby was to create things
-you love so that is why I am here.
+# About
+The code in this repository are problems that I find online and solve. All the solutions are
+written in ruby. The idea behind this project is to practice as much ruby as I can so that I dont
+end up forgetting what I have learnt. The motivation of this project if from [Joshua Cheek's] (http://github.com/JoshCheek) 
+play repository whereby he created a bunch of projects. 
+
 
 ## Installation
+If you feel like trying it out, feel free and clone the project
 ```bash
 $ cd ~
 $ git clone git@github.com:tawrahim/Ruby_Games.git
