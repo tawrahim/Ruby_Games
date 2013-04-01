@@ -1,7 +1,7 @@
 # About
 The code in this repository are problems that I find online and solve. All the solutions are
 written in ruby. The idea behind this project is to practice as much ruby as I can so that I dont
-end up forgetting what I have learnt. The motivation of this project if from [Joshua Cheek's] (http://github.com/JoshCheek) 
+end up forgetting what I have learnt. The motivation of this project if from [Joshua Cheek's] (http://github.com/JoshCheek/Play)
 play repository whereby he created a bunch of projects. 
 
 
