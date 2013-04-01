@@ -1,8 +1,8 @@
 # About
 The code in this repository are problems that I find online and solve. All the solutions are
 written in ruby. The idea behind this project is to practice as much ruby as I can so that I dont
-end up forgetting what I have learnt. The motivation of this project if from [Joshua Cheek's] (http://github.com/JoshCheek/Play)
-play repository whereby he created a bunch of projects. 
+end up forgetting what I have learnt. The motivation of this project is from [Joshua Cheek's] (http://github.com/JoshCheek/Play)
+play repository.
 
 
 ## Installation
@@ -12,10 +12,10 @@ $ cd ~
 $ git clone git@github.com:tawrahim/Ruby_Games.git
 ```
 
-## Games
-* **Concentration** => It is a simple board game that checks to see if the two values selected match. No fancy gui or anything. straight up command line!
-* **Conversion** => Converts temprature from one given unit to the other
-* **BankTeller** => Some object oriented programming concepts explored, Withdraw money and add money to a bank
+## Projects
+* [Puzzle] (http://github.com/tawrahim/Ruby_Games/tree/master/puzzle) It is a simple board game that checks to see if the two values selected match. No fancy gui or anything. straight up command line!
+* [Temprature Converter] (http://github.com/tawrahim/Ruby_Games/tree/master/conversion) Converts temprature from one given unit to the other
+* [Bank Teller] (http://github.com/tawrahim/Ruby_Games/tree/master/banker)  Some object oriented programming concepts explored, Withdraw money and add money to a bank
 
 ## Philosophy
 * code with ruby
