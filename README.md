@@ -16,7 +16,7 @@ $ git clone git@github.com:tawrahim/Ruby_Games.git
 * [Puzzle] (http://github.com/tawrahim/Ruby_Games/tree/master/puzzle) It is a simple board game that checks to see if the two values selected match. No fancy gui or anything. straight up command line!
 * [Temprature Converter] (http://github.com/tawrahim/Ruby_Games/tree/master/conversion) Converts temprature from one given unit to the other
 * [Bank Teller] (http://github.com/tawrahim/Ruby_Games/tree/master/banker)  Some object oriented programming concepts explored, Withdraw money and add money to a bank
-
+* [Bubble Sort] (http://github.com/tawrahim/Ruby_Games/tree/master/bubble_sort) My implementation of the bubble sort algorithm. Give me an an array and I shall sort it! 
 ## Philosophy
 * code with ruby
 * test with rspec
