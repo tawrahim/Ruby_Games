@@ -18,6 +18,7 @@ $ git clone git@github.com:tawrahim/Ruby_Games.git
 * [Bank Teller] (http://github.com/tawrahim/Ruby_Games/tree/master/banker)  Some object oriented programming concepts explored, Withdraw money and add money to a bank
 * [Bubble Sort] (http://github.com/tawrahim/Ruby_Games/tree/master/bubble_sort) My implementation of the bubble sort algorithm. Give me an an array and I shall sort it! 
 * [Binary Search] (http://github.com/tawrahim/Ruby_Games/tree/master/binary_search) Searches through a list by first dividing it into two, just like how a normal person would do when searching a phone book
+
 ## Philosophy
 * code with ruby
 * test with rspec
