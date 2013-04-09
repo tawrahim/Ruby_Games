@@ -1,5 +1,5 @@
 # Description
-In this project we I am going to try to take a list of email addresses and split the local and domain portions of the address.
+In this project I am going to try to take a list of email addresses and split the local and domain portions of the address.
 That sounds like a useful and simple objective, but in doing so, we will have to build several aspects - taking a list and splitting out individual 
 values, parsing an individual value, extracting the username and domain name of the email address and checking for validity. Sounds simple!
 
