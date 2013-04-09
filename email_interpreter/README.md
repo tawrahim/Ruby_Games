@@ -11,7 +11,7 @@ In a typical input from the text box, we expect a comma separated list of email 
 
 But we must also take care to handle erroneous inputs, like " john@google.com,,123@, spaces are here.com, andrew@hotmail.com". 
 
-This is how the problem would be solved
+### This is how the problem would be solved
 1. First, we obtain a string of all the email addresses from the user.
 2. From this string, the addresses separated by comma are extracted.
 3. For each of these addresses, the local and domain portions of the email address are extracted if they are proper valid inputs.
