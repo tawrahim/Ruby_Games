@@ -18,6 +18,7 @@ $ git clone git@github.com:tawrahim/Ruby_Games.git
 * [Bubble Sort] (http://github.com/tawrahim/Ruby_Games/tree/master/bubble_sort) My implementation of the bubble sort algorithm. Give me an an array and I shall sort it! 
 * [Binary Search] (http://github.com/tawrahim/Ruby_Games/tree/master/binary_search) Searches through a list by first dividing it into two, just like how a normal person would do when searching a phone book
 * [99 bottles of beer] (http://github.com/tawrahim/Ruby_Games/tree/master/99bottles_of_beer) The 99bottles_of_beer of beer song has been automated by our computer nice! 
+* [Email interpreter] (http://github.com/tawrahim/Ruby_Games/tree/master/email_interpreter) This project takes some array and then give it back to you in a split form. 
 
 ## Philosophy
 * code with ruby

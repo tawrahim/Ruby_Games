@@ -1,8 +1,5 @@
 # Description
 In this project I am going to try to take a list of email addresses and split the local and domain portions of the address.
-That sounds like a useful and simple objective, but in doing so, we will have to build several aspects - taking a list and splitting out individual 
-values, parsing an individual value, extracting the username and domain name of the email address and checking for validity. Sounds simple!
-
 For maximum learning, the problem is solved  without regex and without in-built split functions.
 
 In a typical input from the text box, we expect a comma separated list of email addresses. Such as, 
@@ -20,6 +17,7 @@ But we must also take care to handle erroneous inputs, like " john@google.com,,1
 String, loops, conditions, Array
 
 ## Usage
+This code is incomplete so I would advice not to use it
 To try it out, follow the following steps and modify the method call, as usual I hope that you also learn something from this project
 ```bash
 $ cd ~
